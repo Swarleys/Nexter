@@ -1,5 +1,5 @@
 {
-  "name": "trillo",
+  "name": "nexter",
   "version": "1.0.0",
   "description": "Trillo project",
   "main": "index.js",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Swarleys/Trillo.git"
+    "url": "git+https://github.com/Swarleys/Nexter.git"
   },
   "author": "Esteban",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Swarleys/Trillo/issues"
+    "url": "https://github.com/Swarleys/Nexter/issues"
   },
-  "homepage": "https://github.com/Swarleys/Trillo#readme",
+  "homepage": "https://github.com/Swarleys/Nexter#readme",
   "devDependencies": {
     "autoprefixer": "^8.2.0",
     "concat": "^1.0.3",
